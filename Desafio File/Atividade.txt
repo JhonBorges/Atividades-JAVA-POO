@@ -1,0 +1,1 @@
+fazer um programa que leia o arquivo e crie um novo com os dados de resultado
